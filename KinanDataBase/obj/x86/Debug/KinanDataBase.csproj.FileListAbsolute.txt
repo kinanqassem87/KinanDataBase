@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\bin\Debug\KinanDataBase.exe
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\bin\Debug\KinanDataBase.pdb
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\obj\x86\Debug\KinanDataBase.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\obj\x86\Debug\KinanDataBase.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\obj\x86\Debug\KinanDataBase.exe
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\obj\x86\Debug\KinanDataBase.pdb
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\obj\x86\Debug\KinanDataBase.FRM_Main.resources
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\obj\x86\Debug\KinanDataBase.FRM_SignIn.resources
+c:\users\user\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\obj\x86\Debug\KinanDataBase.FRM_Data.resources
+C:\Users\User\documents\visual studio 2010\Projects\KinanDataBase\KinanDataBase\obj\x86\Debug\KinanDataBase.csprojResolveAssemblyReference.cache
